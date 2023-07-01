@@ -1,7 +1,6 @@
-# Solid
+# GOJU TEMPLATE
 
-A landing page template.
-
+GOJU TEMPLATE LANDING PAGE 
 * [Getting started](#getting-started)
 
 ## Getting started
